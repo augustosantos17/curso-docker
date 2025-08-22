@@ -1,8 +1,20 @@
 # 🐳 Curso Docker: Criando e Gerenciando Containers / Docker Course: Creating and Managing Containers
 
-Este projeto foi desenvolvido como parte de um curso prático de Docker, com foco em gerenciamento de containers, criação de redes, manipulação de imagens, integração com WSL (Windows Subsystem for Linux), e aplicações modernas com JavaScript e TSX.
+Este projeto foi desenvolvido como parte de um curso prático de Docker, com foco em:
 
-This project was developed as part of a hands-on Docker course, focusing on container management, network creation, image handling, integration with WSL (Windows Subsystem for Linux), and modern applications using JavaScript and TSX.
+- Gerenciamento de containers
+- Criação de redes
+- Manipulação de imagens
+- Integração com WSL (Windows Subsystem for Linux)
+- Desenvolvimento de aplicações modernas com JavaScript e TSX
+
+This project was developed as part of a hands-on Docker course, focusing on:
+
+- Container management
+- Network creation
+- Image handling
+- Integration with WSL (Windows Subsystem for Linux)
+- Development of modern applications using JavaScript and TSX
 
 ---
 
@@ -12,7 +24,7 @@ This project was developed as part of a hands-on Docker course, focusing on cont
 - 🌐 Configurar redes entre containers / Configure networks between containers
 - 🖼️ Criar e utilizar imagens personalizadas / Build and use custom images
 - 🐧 Integrar com WSL para desenvolvimento local / Integrate with WSL for local development
-- 💻 Desenvolver aplicações com JavaScript e TSX / Build apps using JavaScript and TSX
+- 💻 Desenvolver um site interativo com TSX rodando na porta `5000` / Build an interactive TSX website running on port `5000`
 
 ---
 
@@ -24,6 +36,7 @@ This project was developed as part of a hands-on Docker course, focusing on cont
 - JavaScript (ES6+)
 - TSX (TypeScript + JSX)
 - Node.js
+- React
 
 ---
 
@@ -35,6 +48,7 @@ This project was developed as part of a hands-on Docker course, focusing on cont
 ```bash
 git clone https://github.com/seu-usuario/docker-curso.git
 cd docker-curso
+
 
 Aqui está um modelo de `README.md` bilíngue para o seu projeto do curso de Docker, com foco em containers, redes, imagens, WSL, JavaScript e TSX:
 
